@@ -18,4 +18,4 @@ Modify `Startup.ahk` if you want to change this.
 
 Doesn't work with a multi-monitor setup.
 Check out the repository https://github.com/lihas/windows-DPI-scaling-sample for more information
-Most of the codes is based on this repository. Thanks for the research
+Most of the code is based on this repository. Thanks for the research!
